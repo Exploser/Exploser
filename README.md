@@ -1,11 +1,36 @@
-- 👋 Hi, I’m @Exploser AKA @Abhijeet_Thakur
-- 
-# 🔧 Technologies & Tools
+# Hi there, I'm @Exploser AKA @Abhijeet! 👋
+
+## 🚀 About Me
+I'm currently a student with a passion for building programs. I love to explore new technologies and leverage them to solve my-very-personal-problems. I'm currently learning JsReact, Prolog and excited about Neovim.
+
+## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 <!-- Add more badges from https://shields.io/ -->
+
+## 🌱 I’m currently learning ...
+- Embedded development (C/C++, RISC-C)
+- Cloud Computing (AWS/GCP)
+- Web Development (React, Node.js)
+
+## 👯 I’m Working on ...
+- Web project
+- a RPG-Game in GameMakerStudio 
+- Innovative Web Development Ideas
+
+## 📫 How to reach me:
+- Email: exploserbusiness@gmail.com
+
+
+<!---
+## ⚡ Fun fact:
+I love to [Your Hobby] and [Another Hobby].
+
+## 📈 My GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+--->
 <!---
 Exploser/Exploser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

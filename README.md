@@ -23,13 +23,18 @@ I'm currently a student with a passion for building programs. I love to explore 
 ## 📫 How to reach me:
 - Email: exploserbusiness@gmail.com
 
+## 📈 My GitHub Stats
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exploser&show_icons=true&theme=radical)
+
+## 🔥 Hot Take
+- Markdown is literally the best markup language for any documentation.
+
 
 <!---
 ## ⚡ Fun fact:
 I love to [Your Hobby] and [Another Hobby].
 
-## 📈 My GitHub Stats
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 --->
 <!---
 Exploser/Exploser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -25,9 +25,9 @@ I'm currently a student with a passion for building programs. I love to explore 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 <!-- Add more badges from https://shields.io/ -->
 
-## 📈 My GitHub Stats
+<!--## 📈 My GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exploser&show_icons=true&theme=radical)
-
+-->
 
 <!---
 ## ⚡ Fun fact:

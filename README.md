@@ -15,9 +15,6 @@ I'm currently a student with a passion for building programs. I love to explore 
 ## 📫 How to reach me:
 - Email: exploserbusiness@gmail.com
 
-## 🔥 Hot Take
-- Markdown is literally the best markup language for any documentation.
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -27,6 +24,10 @@ I'm currently a student with a passion for building programs. I love to explore 
 
 <!--## 📈 My GitHub Stats
 ![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Exploser&show_icons=true&theme=radical)
+-->
+<!--
+## 🔥 Hot Take
+- Markdown is literally the best markup language for any documentation.
 -->
 
 <!---

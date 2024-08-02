@@ -8,9 +8,7 @@ Computer Science student with a curiosity for building projects everywhere, from
 - Web Development with Ruby & MERN stack.
 
 ## 👯 I’m Working on ...
-- A Dynamic Portfolio website
-- a RPG-Game in GameMaker Studio 2
-- Spotify Trivia Web-App
+- A Spotify Music controller using ESP8266
 
 ## 📫 How to reach me:
 - Instagram: [@Expl0ser](https://www.instagram.com/expl0ser/)

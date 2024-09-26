@@ -11,9 +11,8 @@ Computer Science student with a curiosity for building projects everywhere, from
 - A Spotify Music controller using ESP8266
 
 ## 📫 How to reach me:
-- Instagram: [@Expl0ser](https://www.instagram.com/expl0ser/)
-- Twitter: [@ItsExploser](https://twitter.com/itsExploser)
-- LinkedIn: [Abhijeet Thakur](https://www.linkedin.com/in/abhijeetsthakur/)
+- Instagram: [@really_goose](https://www.instagram.com/really_goose/)
+- Youtube: [@Loose_Goose](https://www.youtube.com/@really-goose)
 
 ## 🗂️ My Other Works:
 - My games on Itch.io: [Exploser](https://exploser.itch.io)

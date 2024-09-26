@@ -1,4 +1,4 @@
-# Hi there, I'm Exploser, and I'm also Abhijeet Thakur! 👋
+# Hi there, I'm Abhijeet ! 👋
 
 ## 🚀 About Me
 Computer Science student with a curiosity for building projects everywhere, from Embedded systems with RISC-V to Web-Apps with MERN stack. I love to explore new technologies and leverage them to solve my-very-personal-problems.
